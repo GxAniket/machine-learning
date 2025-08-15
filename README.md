@@ -17,12 +17,6 @@ It covers **classification**, **regression**, **clustering**, and **model evalua
 
 ## 📚 Course Modules
 
-<p align="center">
- <img width="887" height="737" alt="image" src="https://github.com/user-attachments/assets/68c9bc50-c30b-4ba8-96ca-0ad39846ca10" />
-</p>
-
----
-
 **Modules:**
 1. 📘 Introduction to Machine Learning  
 2. 📉 Linear and Logistic Regression  
@@ -75,7 +69,9 @@ machine-learning-ibm/
 ## 📜 Certificate
 
 <p align="center">
-  <img src="images/certificate.png" alt="IBM Certificate" width="600" />
+  
+  <img width="985" height="761" alt="IBM" src="https://github.com/user-attachments/assets/09b07249-9c52-4863-919d-69b071e128cf" />
+
 </p>
 
 > 🏅 Official IBM & Coursera Certificate of Completion
